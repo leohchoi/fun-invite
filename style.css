@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.centering {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.move_on_hover {
+  transition: transform 0.3s ease;
+}
